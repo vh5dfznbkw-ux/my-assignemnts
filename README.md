@@ -6,10 +6,10 @@
 
 | № | Тема задания | Ссылка на работу | Ключевые навыки |
 |---|--------------|------------------|-----------------|
-| 1 | Анализ сетевого трафика | [Перейти](./task-1-traffic/) | Wireshark, TCP/IP |
-| 2 | Настройка веб-сервера | [Перейти](./task-2-webserver/) | Linux, Nginx, Bash |
-| 4 | ... | ... | ... |
-| 5 | ... | ... | ... |
+| 1 | SQL | (https://github.com/vh5dfznbkw-ux/sql-module) | Основы работы с базами |
+| 2 | HTML | (https://github.com/vh5dfznbkw-ux/html-module) | Работа с написанием кода |
+| 4 | JS | (https://github.com/vh5dfznbkw-ux/js-module) | Работа с js |
+| 5 | BASH | (https://github.com/vh5dfznbkw-ux/bash-module) | Работа с терминалом |
 | 6 | ... | ... | ... |
 
 ## Как это устроено
